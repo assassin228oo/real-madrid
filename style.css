@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+    background-color: #C4C4C4;
+}
+
+
+header img{
+        position:absolute;
+        top: 25px;
+        left: 10px;
+    width: 30%;       
+}
+
+.HALAMADRID2{
+    width: 100%;
+}
+
+
+
+footer{
+    background-color: blue;
+    padding: 20px;
+    text-align: center;
+    color: wheat;
+}
+
+.MReal{
+    display: flex;
+}
+
+.real7{
+    position: relative;
+
+    float: right;
+}
+
+.real6{
+    position: relative;
+    
+    float: left;
+}
+
+.real5{
+    position: relative;
+    
+    float: center;
+}
+
+.nav-link{
+    text-decoration: none;  
+    color: black;
+}
+.nav-link:hover {
+
+    text-decoration: none;
+    padding: 15px;
+    font-size: 17px;
+    color:#2563EB;
+
+}
+
+
+.navlink:hover {
+
+    text-decoration: none;
+    padding: 15px;
+    font-size: 17px;
+    color:#10B981;
+}
+
+.navlink{
+    text-decoration: none;  
+    color: black;
+}
